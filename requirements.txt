@@ -1,0 +1,9 @@
+python==3.9.18
+ipykernel==6.25.2
+pandas==2.0.0
+numpy==1.26.0
+matplotlib==3.8.0
+scikit-learn==1.2.2
+rdkit-pypi==2022.9.5
+MolVS==0.1.1
+optuna==3.4.0
